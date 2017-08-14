@@ -34,8 +34,40 @@ public class Sign {
 		"What are you doing here?!";
 	
 	private static final String[] TIPS = {
-		"Don't overestimate your strength, use weapons and armor you can handle.",
-		"Not all doors in the dungeon are visible at first sight. If you are stuck, search for hidden doors.",
+		//"Don't overestimate your strength, use weapons and armor you can handle.",
+
+		"The villagers of Peterbrugh have grown increasingly anxious..\n" +
+				"\n" +
+				"The women and children have fled..\n" +
+				"\n" +
+				"The men have pretended to be women, and also fled..\n" +
+				"\n" +
+				"Even the King's brave knights have seemingly misplaced their dangly bits.\n" +
+				"\n" +
+				"There is something stirring from within the very bowels of The Dungeon... causing sickness, and pain..\n" +
+				"\n" +
+				"Life in Peterbrugh is threatened to be forever tainted (ha, taint) by this unseen presence.\n" +
+				"\n" +
+				"What they need is a hero.\n" +
+				"\n" +
+				"Could it be you?",
+
+		"This dungeon becomes more and more puzzling...\n" +
+				"\n" +
+				"It now seems there is something living...no.. not simply living.. growing.. deep, deep inside its most inner belly.\n" +
+				"\n" +
+				"Many heroes before you, from far away lands, have been sent ahead and died attempting " +
+				"to determine just what entity is wreaking havoc from below. \n" +
+				"\n" +
+				"Hmmm, what could it be, what could it be... \n" +
+				"\n" +
+				"OH, what in the bosom of Brunhild?!? It seems that it is an unborn child!! A fetus!! You, sir, nay, HERO(!!!) are soon to reach Level 3 Uncle!!! \n" +
+				"\n" +
+				"BY THE BARD'S BONES, BABY Z IS COMING SPRING OF 2018!!!\n" +
+				"\n" +
+				"HURRAH!!",
+
+		//"Not all doors in the dungeon are visible at first sight. If you are stuck, search for hidden doors.",
 		"Remember, that raising your strength is not the only way to access better equipment. You can go " +
 			"the other way, lowering its strength requirement with Scrolls of Upgrade.",
 		"You can spend your gold in shops on deeper levels of the dungeon. The first one is on the 6th level.",

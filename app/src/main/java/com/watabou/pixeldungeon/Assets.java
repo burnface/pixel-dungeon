@@ -87,7 +87,7 @@ public class Assets {
 	public static final String RATKING	= "ratking.png";
 	public static final String BEE		= "bee.png";
 	public static final String MIMIC	= "mimic.png";
-	
+
 	public static final String ITEMS	= "items.png";
 	public static final String PLANTS	= "plants.png";
 	

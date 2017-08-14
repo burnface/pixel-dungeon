@@ -23,9 +23,11 @@ import com.watabou.pixeldungeon.windows.WndStory;
 public class IntroScene extends PixelScene {
 
 	private static final String TEXT = 	
-		"Many heroes of all kinds ventured into the Dungeon before you. Some of them have returned with treasures and magical " +
-		"artifacts, most have never been heard of since. But none have succeeded in retrieving the Amulet of Yendor, " +
-		"which is told to be hidden in the depths of the Dungeon.\n\n" +
+		"Many heroes of all kinds, types, genders, sub-genders, and 2017 cross-sub-genders, have ventured into the Dungeon before you. Some of them have returned with treasures and magical " +
+		"artifacts. Others have returned looking dreadfully ashamed, and sore in places they didn't even know they HAD places; fractured, but whole....... Most have simply never been heard " +
+		"of since. \n\n" +
+		"But none have succeeded in retrieving the Great Stone of Nordiarch, " +
+		"which is told to be hidden in the depths of the Dungeon, guarded by something or someone, not yet known to man or beast (or to the above noted gender classes.)\n\n" +
 		"" +
 		"You consider yourself ready for the challenge, but most importantly, you feel that fortune smiles on you. " +
 		"It's time to start your own adventure!";
